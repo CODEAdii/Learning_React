@@ -1,5 +1,6 @@
-**React Learning Journey**
-==========================
+
+<h1 align="center">**React Learning Journey**</h1>
+
 
 ![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/80px-Unofficial_JavaScript_logo_2.svg.png)
 ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/80px-React-icon.svg.png)
